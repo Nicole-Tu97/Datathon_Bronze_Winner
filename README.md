@@ -31,16 +31,16 @@ X6= play/total puck_recovery
 
 ## Analysis
 To run the analysis of the datathon:
-1. Git clone the entire repository by:
+1. Git clone the entire repository by enter below code in terminal:
 ```
 git clone https://github.com/Nicole-Tu97/Datathon_Bronze_Winner.gitrl
 ```
-3. Open terminal and set current working directory as the repository.
+3. In terminal, set current working directory as the repository.
 4. Set up environment for the datathon by copy and enter below code in terminal:
 ``` 
 conda env create --file environment.yml
 ```
-and activate the environment by:
+    and activate the environment by:
 ```
 conda activate datathon_NWHL
 ```

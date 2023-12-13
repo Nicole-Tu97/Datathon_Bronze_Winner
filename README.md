@@ -40,7 +40,7 @@ git clone https://github.com/Nicole-Tu97/Datathon_Bronze_Winner.gitrl
 ``` 
 conda env create --file environment.yml
 ```
-    and activate the environment by:
+and activate the environment by:
 ```
 conda activate datathon_NWHL
 ```

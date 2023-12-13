@@ -29,6 +29,28 @@ X4= play/ total takeaway
 X5= powerplay play/panalty taken 
 X6= play/total puck_recovery
 
+## Analysis
+To run the analysis of the datathon:
+1. Git clone the entire repository by:
+```
+git clone https://github.com/Nicole-Tu97/Datathon_Bronze_Winner.gitrl
+```
+3. Open terminal and set current working directory as the repository.
+4. Set up environment for the datathon by copy and enter below code in terminal:
+``` 
+conda env create --file environment.yml
+```
+and activate the environment by:
+```
+conda activate datathon_NWHL
+```
+5. open jupyter lab by enter:
+``` 
+jl
+``` 
+7. open "src/Datathon_analysis.ipynb"
+8. click "run all" buttom to run all analysis and steps.  
+
 ## Report
 The final report can be found
 [here](https://github.com/Nicole-Tu97/Datathon_Bronze_Winner/blob/main/report/Datathon-YejunTu_Orange.pdf).
